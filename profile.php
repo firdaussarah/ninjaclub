@@ -160,6 +160,7 @@ $team = mysqli_query($conn, "SELECT * FROM team");
             <div class="container" data-aos="fade-up">
                 <div class="row content">
                     <div class="col-lg-6">
+                        <img src="assets/img/16.jpg" alt="Profile Picture" class="img-fluid">
                         <h3>Our Journey</h3>
                         <p>Ninja Club Bogor was founded in 2018 by a group of passionate Kawasaki Ninja motorcycle enthusiasts. What began as a simple gathering of like-minded riders soon evolved into a prominent motorcycle club in the region. Our founders shared a common love for Kawasaki Ninja bikes, but more importantly, they were united by their love for the thrill of the road, the freedom that comes with riding, and the sense of belonging to a community of individuals who shared the same passion.</p>
                         <p>From the very beginning, Ninja Club Bogor set out to create a safe, supportive, and inclusive space where Kawasaki Ninja motorcycle owners could come together, share experiences, and create lasting friendships. Our growth over the years is a testament to the club’s success in fostering a strong sense of community among riders from all walks of life, from seasoned professionals to new riders looking to improve their skills.</p>
